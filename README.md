@@ -1,4 +1,4 @@
-# Movie-Recommendation-Systemm
+# Movie-Recommendation-System
 
 ![ML](https://img.shields.io/badge/ML-Recommendation_System-blue.svg)
 
