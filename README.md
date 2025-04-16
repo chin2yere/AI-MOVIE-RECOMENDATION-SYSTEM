@@ -15,12 +15,7 @@
 ### 3. Extract Files
 
 Unzip the downloaded file to get:
-ml-20m/
-├── movies.csv (Required)
-├── ratings.csv (Required)
-├── tags.csv (Optional)
-├── links.csv (Optional)
-└── ... (Other files)
+![alt text](image.png)
 
 ### 4. Prepare Google Drive
 
