@@ -15,7 +15,7 @@
 ### 3. Extract Files
 
 - Unzip the downloaded file to get:
-- ![alt text](image.png)
+- ![test](Snips/file_structure.png)
 
 ### 4. Prepare Google Drive
 
@@ -76,23 +76,23 @@ Some of the test images are given below.
 
 The results from Movie-Movie Similarity is as below:
 
-![test](Snips/M_1.JPG)
+![test](Snips/M_1.png)
 
 The results from User-User Similarity is as below:
 
-![test](Snips/M_2.JPG)
+![test](Snips/M_2.png)
 
 The Feature Importance for predicting ratings is as below:
 
-![test](Snips/M_3.JPG)
+![test](Snips/M_3.png)
 
 The results from different ML models are as follows:
 
-![test](Snips/M_4.JPG)
+![test](Snips/M_4.png)
 
 The sample movie recommendation based on Collaborative Filtering is as follows:
 
-![test](Snips/M_5.JPG)
+![test](Snips/M_5.png)
 
 ## Conclusions :
 
