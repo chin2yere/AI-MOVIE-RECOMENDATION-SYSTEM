@@ -14,8 +14,8 @@
 
 ### 3. Extract Files
 
-Unzip the downloaded file to get:
-![alt text](image.png)
+- Unzip the downloaded file to get:
+- ![alt text](image.png)
 
 ### 4. Prepare Google Drive
 
