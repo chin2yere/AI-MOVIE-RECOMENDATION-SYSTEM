@@ -4,6 +4,41 @@
 
 ![logo](Snips/Logo.jpeg)
 
+## 🚀 Setup Instructions
+
+### 1. Go to https://grouplens.org/datasets/movielens/20m/
+
+### 2. Download the Dataset
+
+- Download the [MovieLens 20M Dataset](https://grouplens.org/datasets/movielens/20m/) (`ml-20m.zip`)
+
+### 3. Extract Files
+
+Unzip the downloaded file to get:
+ml-20m/
+├── movies.csv (Required)
+├── ratings.csv (Required)
+├── tags.csv (Optional)
+├── links.csv (Optional)
+└── ... (Other files)
+
+### 4. Prepare Google Drive
+
+Create this exact folder structure: /content/drive/MyDrive/Colab Datasets/Movie Recommendation
+_(Note the spelling: "Recommendation")_
+
+### 5. Upload Required Files
+
+Move these files to your Google Drive folder:
+
+- `movies.csv`
+- `ratings.csv`
+
+### 6. Run the Notebook
+
+The code will look for files at:
+file_path = "/content/drive/MyDrive/Colab Datasets/Movie Recommendation".
+
 ## Business Objectives :
 
 All entertainment websites or online stores have millions/billions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
@@ -75,3 +110,7 @@ We tried generating recommendations based on similarity matrix and Collaborative
 We tried to predict the ratings for movies that the user might give based on its past rating behaviours and measure the accuracy using RMSE and MAPE error metrics.
 
 Surely, there is huge scope of improvement and tring out different techniques and ML/DL algorithms.
+
+```
+
+```

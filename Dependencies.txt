@@ -1,11 +1,12 @@
-numpy==1.18.5
-pandas==1.1.5
-matplotlib==3.2.2
-seaborn==0.11.0
-scipy==1.4.1
-scikit-learn==0.22.2.post1
-xgboost==1.3.3
-surprise==1.1.1
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.12.2
-jupyter==1.0.0
+Dependencies and versions
+
+"numpy==1.26.4",        # ✅ Present (exact match)
+"pandas",               # ✅ Present (2.2.2)
+"matplotlib",           # ✅ Present (3.10.0)
+"seaborn",              # ✅ Present (0.13.2)
+"scipy",                # ✅ Present (1.14.1)
+"scikit-learn",         # ✅ Present (1.6.1)
+"xgboost",              # ✅ Present (2.1.4)
+"surprise==1.1.4",      # ✅ Present (exact match)
+"fuzzywuzzy==0.18.0",   # ✅ Present (exact match)
+"joblib>=1.2.0"         # ✅ Present (1.4.2)
