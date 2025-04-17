@@ -86,10 +86,6 @@ The Feature Importance for predicting ratings is as below:
 
 ![test](Snips/M_3.png)
 
-The results from different ML models are as follows:
-
-![test](Snips/M_4.png)
-
 The sample movie recommendation based on Collaborative Filtering is as follows:
 
 ![test](Snips/M_5.png)
